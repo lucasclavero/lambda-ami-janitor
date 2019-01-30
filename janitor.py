@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import boto3
 
 
-ACCOUNT_ID = '701373377822'
+ACCOUNT_ID = 'XXXXXXXXXXXXX'
 
 
 def handler(event, context):
